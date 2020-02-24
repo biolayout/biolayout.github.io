@@ -1,0 +1,5 @@
+theme: minima
+title: "BioLayout"
+header_pages:
+  - download.md
+  - example-data.md
